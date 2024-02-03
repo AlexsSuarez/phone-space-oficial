@@ -1,0 +1,52 @@
+.Inf{
+    z-index: 3;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 800px;
+    padding-top: 230px;
+    padding-bottom: 50px;
+    background: rgb(2, 1, 45);
+}
+
+.parrafo{
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+    background: rgb(2, 1, 45);
+}
+.img{
+    width: 25vw;
+    border-radius: 2%;
+    background: #000000;
+    box-shadow: 0px 0px 10px #ffffff;
+}
+.parrafo p{
+    color: #fff;
+    font-size: 3vw;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    margin-bottom: 3px;
+}
+
+h1{
+    position: absolute;
+    margin-top: -180px;
+    text-shadow: 1px 1px 1px #fff;
+    color: #fff;
+    font-weight: 900;
+    font-size: 8vw;
+    font-family: 'Times New Roman', Times, serif;
+    transition: 0.5s;
+}
+
+@media(max-width:500px){
+    h1{
+        margin-top: -140px;
+    }
+}
