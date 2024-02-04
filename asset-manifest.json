@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/phone-space-oficial/static/css/main.fa268921.css",
-    "main.js": "/phone-space-oficial/static/js/main.e19d02f6.js",
+    "main.js": "/phone-space-oficial/static/js/main.7936c695.js",
     "static/js/592.17904fe3.chunk.js": "/phone-space-oficial/static/js/592.17904fe3.chunk.js",
     "static/media/1.png": "/phone-space-oficial/static/media/1.de7fc3bed5e87e7708c5.png",
     "static/media/33.png": "/phone-space-oficial/static/media/33.8dd9b7a01bf819c4f70e.png",
@@ -32,7 +32,6 @@
     "static/media/3.jpg": "/phone-space-oficial/static/media/3.cc88225ee41ee6f9672e.jpg",
     "static/media/20.jpg": "/phone-space-oficial/static/media/20.6fc20e3a29ae71c6a7c7.jpg",
     "static/media/21.jpg": "/phone-space-oficial/static/media/21.e17ed56cee7fd86c8773.jpg",
-    "static/media/34.jpg": "/phone-space-oficial/static/media/34.debc6e821b7a1848356f.jpg",
     "static/media/13.jpg": "/phone-space-oficial/static/media/13.6eb5f17109419db91295.jpg",
     "static/media/4.jpg": "/phone-space-oficial/static/media/4.f5e3b4f3cf23ee9f75f8.jpg",
     "static/media/16.jpg": "/phone-space-oficial/static/media/16.a219965e8ed1251b9338.jpg",
@@ -53,7 +52,7 @@
     "static/media/18.jpg": "/phone-space-oficial/static/media/18.72acefcc536d8cbdb823.jpg",
     "static/media/17.jpg": "/phone-space-oficial/static/media/17.3fe5ec02e315c716dc1a.jpg",
     "static/media/42.jpg": "/phone-space-oficial/static/media/42.1a08da9e188fa026a2b0.jpg",
-    "static/media/28.jpg": "/phone-space-oficial/static/media/28.b536196d82faff431b1a.jpg",
+    "static/media/28.jpg": "/phone-space-oficial/static/media/28.83547664dd511b10430b.jpg",
     "static/media/51.jpg": "/phone-space-oficial/static/media/51.91a5bcbf6465c3014437.jpg",
     "static/media/58.jpg": "/phone-space-oficial/static/media/58.f5b2c03926ac40df21be.jpg",
     "static/media/30.jpg": "/phone-space-oficial/static/media/30.cb4033be357cdd212605.jpg",
@@ -65,24 +64,25 @@
     "static/media/46.jpg": "/phone-space-oficial/static/media/46.c578982517aba342caeb.jpg",
     "static/media/43.jpg": "/phone-space-oficial/static/media/43.db85a55b698b0c6548ad.jpg",
     "static/media/33.jpg": "/phone-space-oficial/static/media/33.a09af64f2e39638771c8.jpg",
-    "static/media/23.jpg": "/phone-space-oficial/static/media/23.cbb9cb393665d15a56a4.jpg",
     "static/media/57.jpg": "/phone-space-oficial/static/media/57.b9478e7a0329152c044d.jpg",
     "static/media/25.jpg": "/phone-space-oficial/static/media/25.66ca9279ab88fd409481.jpg",
     "static/media/44.jpg": "/phone-space-oficial/static/media/44.b156667e62a1b3ef47c5.jpg",
     "static/media/35.jpg": "/phone-space-oficial/static/media/35.c75656f8a9f59045535a.jpg",
-    "static/media/27.jpg": "/phone-space-oficial/static/media/27.aa9e7d44648113ef5cae.jpg",
+    "static/media/34.jpg": "/phone-space-oficial/static/media/34.debc6e821b7a1848356f.jpg",
     "static/media/56.jpg": "/phone-space-oficial/static/media/56.c53c3653a1772afede8a.jpg",
     "static/media/0.jpg": "/phone-space-oficial/static/media/0.495c73153acaf08c117b.jpg",
+    "static/media/27.jpg": "/phone-space-oficial/static/media/27.aa9e7d44648113ef5cae.jpg",
     "static/media/59.jpg": "/phone-space-oficial/static/media/59.f09c0e5284d39de9b805.jpg",
+    "static/media/23.jpg": "/phone-space-oficial/static/media/23.cbb9cb393665d15a56a4.jpg",
     "static/media/FC1.png": "/phone-space-oficial/static/media/FC1.b8d78f4a3222d7343b5f.png",
     "static/media/befunky_2024-0-0_21-50-18.jpg": "/phone-space-oficial/static/media/befunky_2024-0-0_21-50-18.1bdb7fd3ce2f432745dc.jpg",
     "index.html": "/phone-space-oficial/index.html",
     "main.fa268921.css.map": "/phone-space-oficial/static/css/main.fa268921.css.map",
-    "main.e19d02f6.js.map": "/phone-space-oficial/static/js/main.e19d02f6.js.map",
+    "main.7936c695.js.map": "/phone-space-oficial/static/js/main.7936c695.js.map",
     "592.17904fe3.chunk.js.map": "/phone-space-oficial/static/js/592.17904fe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa268921.css",
-    "static/js/main.e19d02f6.js"
+    "static/js/main.7936c695.js"
   ]
 }
