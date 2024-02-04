@@ -102,6 +102,7 @@ else if(input7==="Done7"){
 };
 }
 
+
   return(
     <div className="header">
         <div className="logo">
@@ -160,36 +161,36 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="iPhone 15 Pro Max" Imagen={require("../imagenes/iPhone/Iphone 15 Pro Max/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 15 Pro" Imagen={require("../imagenes/iPhone/iPhone 15 pro/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 15 Plus" Imagen={require("../imagenes/iPhone/Iphone 15 plus/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 15" Imagen={require("../imagenes/iPhone/Iphone 15/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 14 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 14 Pro Max/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 14 Pro" Imagen={require("../imagenes/iPhone/iPhone 14 Pro/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 14 Plus" Imagen={require("../imagenes/iPhone/iPhone 14 Plus/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 14" Imagen={require("../imagenes/iPhone/iPhone 14/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 13 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 13 Pro Max/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 13 Pro" Imagen={require("../imagenes/iPhone/iPhone 13 Pro/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 13 Mini" Imagen={require("../imagenes/iPhone/iPhone 13 Mini/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 13" Imagen={require("../imagenes/iPhone/iPhone 13/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 12 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 12 Pro Max/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 12 Pro" Imagen={require("../imagenes/iPhone/iPhone 12 Pro/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 12 Mini" Imagen={require("../imagenes/iPhone/iPhone 12 mini/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 12" Imagen={require("../imagenes/iPhone/iPhone 12/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 11 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 11 Pro Max/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 11 Pro" Imagen={require("../imagenes/iPhone/iPhone 11 Pro/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 11" Imagen={require("../imagenes/iPhone/iPhone 11/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone SE 3ra Gen" Imagen={require("../imagenes/iPhone/iPhone SE 3ra Gen/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone XS Max" Imagen={require("../imagenes/iPhone/iPhone XS Max/1.png")} Href="#" />
-              <Cards2 Nombre="iPhone XS" Imagen={require("../imagenes/iPhone/iPhone XS/1.png")} Href="#" />
-              <Cards2 Nombre="iPhone XR" Imagen={require("../imagenes/iPhone/iPhone XR/1.png")} Href="#" />
-              <Cards2 Nombre="iPhone X" Imagen={require("../imagenes/iPhone/iPhone X/1.png")} Href="#" />
-              <Cards2 Nombre="iPhone 8 Plus" Imagen={require("../imagenes/iPhone/iPhone 8 plus/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 8" Imagen={require("../imagenes/iPhone/iPhone 8/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone SE 2da Gen" Imagen={require("../imagenes/iPhone/iPhone SE 2da Gen/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 7 Plus" Imagen={require("../imagenes/iPhone/iPhone 7 plus/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone 7" Imagen={require("../imagenes/iPhone/iPhone 7/1.jpg")} Href="#" />
-              <Cards2 Nombre="iPhone SE 1ra Gen" Imagen={require("../imagenes/iPhone/iPhone SE 1ra Gen/2.jpg")} Href="#" />
+              <Cards2 Nombre="iPhone 15 Pro Max" Imagen={require("../imagenes/iPhone/Iphone 15 Pro Max/1.jpg")} Href="https://amzn.to/48XFU0P" />
+              <Cards2 Nombre="iPhone 15 Pro" Imagen={require("../imagenes/iPhone/iPhone 15 pro/1.jpg")} Href="https://amzn.to/3w0A8gi" />
+              <Cards2 Nombre="iPhone 15 Plus" Imagen={require("../imagenes/iPhone/Iphone 15 plus/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 15" Imagen={require("../imagenes/iPhone/Iphone 15/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 14 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 14 Pro Max/1.jpg")} Href="https://amzn.to/4bobPJ8" />
+              <Cards2 Nombre="iPhone 14 Pro" Imagen={require("../imagenes/iPhone/iPhone 14 Pro/1.jpg")} Href="https://amzn.to/4867xTQ" />
+              <Cards2 Nombre="iPhone 14 Plus" Imagen={require("../imagenes/iPhone/iPhone 14 Plus/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 14" Imagen={require("../imagenes/iPhone/iPhone 14/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 13 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 13 Pro Max/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 13 Pro" Imagen={require("../imagenes/iPhone/iPhone 13 Pro/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 13 Mini" Imagen={require("../imagenes/iPhone/iPhone 13 Mini/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 13" Imagen={require("../imagenes/iPhone/iPhone 13/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 12 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 12 Pro Max/1.jpg")} Href="https://amzn.to/3SstG97" />
+              <Cards2 Nombre="iPhone 12 Pro" Imagen={require("../imagenes/iPhone/iPhone 12 Pro/1.jpg")} Href="https://amzn.to/3HJNVuf" />
+              <Cards2 Nombre="iPhone 12 Mini" Imagen={require("../imagenes/iPhone/iPhone 12 mini/1.jpg")} Href="https://amzn.to/3w3FWFG" />
+              <Cards2 Nombre="iPhone 12" Imagen={require("../imagenes/iPhone/iPhone 12/1.jpg")} Href="https://amzn.to/3w3FWFG" />
+              <Cards2 Nombre="iPhone 11 Pro Max" Imagen={require("../imagenes/iPhone/iPhone 11 Pro Max/1.jpg")} Href="https://amzn.to/3HI8wiy" />
+              <Cards2 Nombre="iPhone 11 Pro" Imagen={require("../imagenes/iPhone/iPhone 11 Pro/1.jpg")} Href="https://amzn.to/3HI8wiy" />
+              <Cards2 Nombre="iPhone 11" Imagen={require("../imagenes/iPhone/iPhone 11/1.jpg")} Href="https://amzn.to/3OrDFun" />
+              <Cards2 Nombre="iPhone SE 3ra Gen" Imagen={require("../imagenes/iPhone/iPhone SE 3ra Gen/1.jpg")} Href="https://amzn.to/3SLogYr" />
+              <Cards2 Nombre="iPhone XS Max" Imagen={require("../imagenes/iPhone/iPhone XS Max/1.png")} Href="https://amzn.to/49lmMJP" />
+              <Cards2 Nombre="iPhone XS" Imagen={require("../imagenes/iPhone/iPhone XS/1.png")} Href="https://amzn.to/49lmMJP" />
+              <Cards2 Nombre="iPhone XR" Imagen={require("../imagenes/iPhone/iPhone XR/1.png")} Href="https://amzn.to/4912Koa" />
+              <Cards2 Nombre="iPhone X" Imagen={require("../imagenes/iPhone/iPhone X/1.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 8 Plus" Imagen={require("../imagenes/iPhone/iPhone 8 plus/1.jpg")} Href="https://amzn.to/4bqlMWI" />
+              <Cards2 Nombre="iPhone 8" Imagen={require("../imagenes/iPhone/iPhone 8/1.jpg")} Href="https://amzn.to/4bpJli9" />
+              <Cards2 Nombre="iPhone SE 2da Gen" Imagen={require("../imagenes/iPhone/iPhone SE 2da Gen/1.jpg")} Href="https://amzn.to/49iVF20" />
+              <Cards2 Nombre="iPhone 7 Plus" Imagen={require("../imagenes/iPhone/iPhone 7 plus/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone 7" Imagen={require("../imagenes/iPhone/iPhone 7/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="iPhone SE 1ra Gen" Imagen={require("../imagenes/iPhone/iPhone SE 1ra Gen/2.jpg")} Href="https://alexssuarez.github.io/no-found/" />
               
             </div>
 
@@ -201,20 +202,20 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Samsung Galaxy Z Fold5" Imagen={require("../imagenes/Samsung/13.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy Z Flip5" Imagen={require("../imagenes/Samsung/14.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S24 Ultra" Imagen={require("../imagenes/Samsung/1.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S24" Imagen={require("../imagenes/Samsung/2.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S23 Ultra" Imagen={require("../imagenes/Samsung/3.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S23" Imagen={require("../imagenes/Samsung/4.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S22 Ultra" Imagen={require("../imagenes/Samsung/5.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S22" Imagen={require("../imagenes/Samsung/6.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S21 Ultra" Imagen={require("../imagenes/Samsung/7.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy S21" Imagen={require("../imagenes/Samsung/8.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy A54" Imagen={require("../imagenes/Samsung/9.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy A52" Imagen={require("../imagenes/Samsung/10.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy A32" Imagen={require("../imagenes/Samsung/11.jpg")} Href="#" />
-              <Cards2 Nombre="Samsung Galaxy A12" Imagen={require("../imagenes/Samsung/12.jpg")} Href="#" />
+              <Cards2 Nombre="Samsung Galaxy Z Fold5" Imagen={require("../imagenes/Samsung/13.jpg")} Href="https://amzn.to/3Sj6XfO" />
+              <Cards2 Nombre="Samsung Galaxy Z Flip5" Imagen={require("../imagenes/Samsung/14.jpg")} Href="https://amzn.to/3StNcSG" />
+              <Cards2 Nombre="Samsung Galaxy S24 Ultra" Imagen={require("../imagenes/Samsung/1.jpg")} Href="https://amzn.to/42r8y7W" />
+              <Cards2 Nombre="Samsung Galaxy S24" Imagen={require("../imagenes/Samsung/2.jpg")} Href="https://amzn.to/42r8y7W" />
+              <Cards2 Nombre="Samsung Galaxy S23 Ultra" Imagen={require("../imagenes/Samsung/3.jpg")} Href="https://amzn.to/42r8y7W" />
+              <Cards2 Nombre="Samsung Galaxy S23" Imagen={require("../imagenes/Samsung/4.jpg")} Href="https://amzn.to/42r8y7W" />
+              <Cards2 Nombre="Samsung Galaxy S22 Ultra" Imagen={require("../imagenes/Samsung/5.jpg")} Href="https://amzn.to/3UsyGxf" />
+              <Cards2 Nombre="Samsung Galaxy S22" Imagen={require("../imagenes/Samsung/6.jpg")} Href="https://amzn.to/3Snn7Vz" />
+              <Cards2 Nombre="Samsung Galaxy S21 Ultra" Imagen={require("../imagenes/Samsung/7.jpg")} Href="https://amzn.to/48XHL5N" />
+              <Cards2 Nombre="Samsung Galaxy S21" Imagen={require("../imagenes/Samsung/8.jpg")} Href="https://amzn.to/48XHL5N" />
+              <Cards2 Nombre="Samsung Galaxy A54" Imagen={require("../imagenes/Samsung/9.jpg")} Href="https://amzn.to/491hwLx" />
+              <Cards2 Nombre="Samsung Galaxy A52" Imagen={require("../imagenes/Samsung/10.jpg")} Href="https://amzn.to/42pvBQC" />
+              <Cards2 Nombre="Samsung Galaxy A32" Imagen={require("../imagenes/Samsung/11.jpg")} Href="https://amzn.to/49kn2c6" />
+              <Cards2 Nombre="Samsung Galaxy A12" Imagen={require("../imagenes/Samsung/12.jpg")} Href="https://amzn.to/49EPaqD" />
             </div>
             
 
@@ -225,59 +226,59 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Tecno Spark 20 Pro" Imagen={require("../imagenes/Tecno/1.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 20" Imagen={require("../imagenes/Tecno/2.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 20C" Imagen={require("../imagenes/Tecno/3.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 8" Imagen={require("../imagenes/Tecno/4.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Phantom V Flip" Imagen={require("../imagenes/Tecno/5.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 5 Pro" Imagen={require("../imagenes/Tecno/6.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 5" Imagen={require("../imagenes/Tecno/7.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 20 Pro" Imagen={require("../imagenes/Tecno/8.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 20 Premier 5G" Imagen={require("../imagenes/Tecno/9.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 10 5G" Imagen={require("../imagenes/Tecno/10.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 10 Pro" Imagen={require("../imagenes/Tecno/11.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 10C" Imagen={require("../imagenes/Tecno/12.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 10" Imagen={require("../imagenes/Tecno/13.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Phamton V Fold 5G" Imagen={require("../imagenes/Tecno/14.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 7 Pro" Imagen={require("../imagenes/Tecno/15.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark Go 2023" Imagen={require("../imagenes/Tecno/16.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Phantom X2 Pro" Imagen={require("../imagenes/Tecno/17.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Phantom X2" Imagen={require("../imagenes/Tecno/18.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 4" Imagen={require("../imagenes/Tecno/19.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 4 Pro" Imagen={require("../imagenes/Tecno/20.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova Neo 2" Imagen={require("../imagenes/Tecno/21.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 6 Pro" Imagen={require("../imagenes/Tecno/22.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 19 Neo" Imagen={require("../imagenes/Tecno/23.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 9" Imagen={require("../imagenes/Tecno/24.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 9T" Imagen={require("../imagenes/Tecno/25.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 19" Imagen={require("../imagenes/Tecno/26.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 19 Pro" Imagen={require("../imagenes/Tecno/27.png")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 9 Pro" Imagen={require("../imagenes/Tecno/28.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 3" Imagen={require("../imagenes/Tecno/29.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 17 Pro" Imagen={require("../imagenes/Tecno/30.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 5S" Imagen={require("../imagenes/Tecno/31.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 5X" Imagen={require("../imagenes/Tecno/32.png")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 8C" Imagen={require("../imagenes/Tecno/33.png")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 5 LTE" Imagen={require("../imagenes/Tecno/34.png")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 5 Pro" Imagen={require("../imagenes/Tecno/35.png")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 8 Pro" Imagen={require("../imagenes/Tecno/36.png")} Href="#" />
-              <Cards2 Nombre="Tecno Spark Go 2022" Imagen={require("../imagenes/Tecno/37.png")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 5G" Imagen={require("../imagenes/Tecno/38.png")} Href="#" />
-              <Cards2 Nombre="Tecno Pova Neo" Imagen={require("../imagenes/Tecno/39.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 8T" Imagen={require("../imagenes/Tecno/40.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 18T" Imagen={require("../imagenes/Tecno/41.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pop 5C" Imagen={require("../imagenes/Tecno/42.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 18i" Imagen={require("../imagenes/Tecno/43.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 8P" Imagen={require("../imagenes/Tecno/44.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 18 Premier" Imagen={require("../imagenes/Tecno/45.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 18" Imagen={require("../imagenes/Tecno/46.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 18P" Imagen={require("../imagenes/Tecno/47.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 8" Imagen={require("../imagenes/Tecno/48.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark Go 2021" Imagen={require("../imagenes/Tecno/49.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Phantom X" Imagen={require("../imagenes/Tecno/50.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Pova 2" Imagen={require("../imagenes/Tecno/51.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Camon 17p" Imagen={require("../imagenes/Tecno/52.jpg")} Href="#" />
-              <Cards2 Nombre="Tecno Spark 7" Imagen={require("../imagenes/Tecno/53.jpg")} Href="#" />
+              <Cards2 Nombre="Tecno Spark 20 Pro" Imagen={require("../imagenes/Tecno/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 20" Imagen={require("../imagenes/Tecno/2.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 20C" Imagen={require("../imagenes/Tecno/3.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 8" Imagen={require("../imagenes/Tecno/4.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Phantom V Flip" Imagen={require("../imagenes/Tecno/5.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 5 Pro" Imagen={require("../imagenes/Tecno/6.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 5" Imagen={require("../imagenes/Tecno/7.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 20 Pro" Imagen={require("../imagenes/Tecno/8.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 20 Premier 5G" Imagen={require("../imagenes/Tecno/9.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 10 5G" Imagen={require("../imagenes/Tecno/10.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 10 Pro" Imagen={require("../imagenes/Tecno/11.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 10C" Imagen={require("../imagenes/Tecno/12.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 10" Imagen={require("../imagenes/Tecno/13.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Phamton V Fold 5G" Imagen={require("../imagenes/Tecno/14.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 7 Pro" Imagen={require("../imagenes/Tecno/15.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark Go 2023" Imagen={require("../imagenes/Tecno/16.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Phantom X2 Pro" Imagen={require("../imagenes/Tecno/17.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Phantom X2" Imagen={require("../imagenes/Tecno/18.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 4" Imagen={require("../imagenes/Tecno/19.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 4 Pro" Imagen={require("../imagenes/Tecno/20.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova Neo 2" Imagen={require("../imagenes/Tecno/21.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 6 Pro" Imagen={require("../imagenes/Tecno/22.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 19 Neo" Imagen={require("../imagenes/Tecno/23.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 9" Imagen={require("../imagenes/Tecno/24.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 9T" Imagen={require("../imagenes/Tecno/25.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 19" Imagen={require("../imagenes/Tecno/26.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 19 Pro" Imagen={require("../imagenes/Tecno/27.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 9 Pro" Imagen={require("../imagenes/Tecno/28.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 3" Imagen={require("../imagenes/Tecno/29.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 17 Pro" Imagen={require("../imagenes/Tecno/30.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 5S" Imagen={require("../imagenes/Tecno/31.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 5X" Imagen={require("../imagenes/Tecno/32.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 8C" Imagen={require("../imagenes/Tecno/33.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 5 LTE" Imagen={require("../imagenes/Tecno/34.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 5 Pro" Imagen={require("../imagenes/Tecno/35.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 8 Pro" Imagen={require("../imagenes/Tecno/36.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark Go 2022" Imagen={require("../imagenes/Tecno/37.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 5G" Imagen={require("../imagenes/Tecno/38.png")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova Neo" Imagen={require("../imagenes/Tecno/39.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 8T" Imagen={require("../imagenes/Tecno/40.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 18T" Imagen={require("../imagenes/Tecno/41.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pop 5C" Imagen={require("../imagenes/Tecno/42.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 18i" Imagen={require("../imagenes/Tecno/43.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 8P" Imagen={require("../imagenes/Tecno/44.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 18 Premier" Imagen={require("../imagenes/Tecno/45.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 18" Imagen={require("../imagenes/Tecno/46.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 18P" Imagen={require("../imagenes/Tecno/47.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 8" Imagen={require("../imagenes/Tecno/48.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark Go 2021" Imagen={require("../imagenes/Tecno/49.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Phantom X" Imagen={require("../imagenes/Tecno/50.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Pova 2" Imagen={require("../imagenes/Tecno/51.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Camon 17p" Imagen={require("../imagenes/Tecno/52.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Tecno Spark 7" Imagen={require("../imagenes/Tecno/53.jpg")} Href="https://alexssuarez.github.io/no-found/" />
               </div>
 
 
@@ -287,56 +288,56 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Poco F5 Pro" Imagen={require("../imagenes/Xiaomi/1.jpg")} Href="#" />
-              <Cards2 Nombre="Poco F5" Imagen={require("../imagenes/Xiaomi/2.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13T Pro" Imagen={require("../imagenes/Xiaomi/3.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13 Lite" Imagen={require("../imagenes/Xiaomi/4.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Redmi Note 12 Pro+ 5G" Imagen={require("../imagenes/Xiaomi/5.jpg")} Href="#" />
-              <Cards2 Nombre="POCO X5 Pro 5G" Imagen={require("../imagenes/Xiaomi/6.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Redmi Note 12 5G" Imagen={require("../imagenes/Xiaomi/7.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Redmi 13C" Imagen={require("../imagenes/Xiaomi/8.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 13" Imagen={require("../imagenes/Xiaomi/9.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13T Pro" Imagen={require("../imagenes/Xiaomi/10.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13T" Imagen={require("../imagenes/Xiaomi/11.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Mi Mix4" Imagen={require("../imagenes/Xiaomi/12.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13 Pro" Imagen={require("../imagenes/Xiaomi/13.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 13" Imagen={require("../imagenes/Xiaomi/14.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12S Ultra" Imagen={require("../imagenes/Xiaomi/15.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12T Pro" Imagen={require("../imagenes/Xiaomi/16.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12 Pro" Imagen={require("../imagenes/Xiaomi/17.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12T" Imagen={require("../imagenes/Xiaomi/18.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12" Imagen={require("../imagenes/Xiaomi/19.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Mi 11" Imagen={require("../imagenes/Xiaomi/20.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 11T Pro" Imagen={require("../imagenes/Xiaomi/21.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Mi 11i" Imagen={require("../imagenes/Xiaomi/22.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 12X" Imagen={require("../imagenes/Xiaomi/23.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Poco F3" Imagen={require("../imagenes/Xiaomi/24.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 11T" Imagen={require("../imagenes/Xiaomi/25.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 12 Pro+" Imagen={require("../imagenes/Xiaomi/26.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 12S" Imagen={require("../imagenes/Xiaomi/27.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 12" Imagen={require("../imagenes/Xiaomi/28.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi Poco M5s" Imagen={require("../imagenes/Xiaomi/29.jpg")} Href="#" />
-              <Cards2 Nombre="Xiaomi 11 Lite 5G NE" Imagen={require("../imagenes/Xiaomi/30.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 11 Pro 5G" Imagen={require("../imagenes/Xiaomi/31.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 11 Pro Plus 5G" Imagen={require("../imagenes/Xiaomi/32.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 11 Pro Max" Imagen={require("../imagenes/Xiaomi/33.jpg")} Href="#" />
-              <Cards2 Nombre="Poco X4 Pro 5G" Imagen={require("../imagenes/Xiaomi/34.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 10 Pro" Imagen={require("../imagenes/Xiaomi/35.jpg")} Href="#" />
-              <Cards2 Nombre="Poco X3 Pro" Imagen={require("../imagenes/Xiaomi/36.jpg")} Href="#" />
-              <Cards2 Nombre="Poco X3 NFC" Imagen={require("../imagenes/Xiaomi/37.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 11s" Imagen={require("../imagenes/Xiaomi/38.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 10S" Imagen={require("../imagenes/Xiaomi/39.jpg")} Href="#" />
-              <Cards2 Nombre="Poco M4 Pro 5G" Imagen={require("../imagenes/Xiaomi/40.jpg")} Href="#" />
-              <Cards2 Nombre="Poco M3 Pro 5G" Imagen={require("../imagenes/Xiaomi/41.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 11" Imagen={require("../imagenes/Xiaomi/42.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi Note 10" Imagen={require("../imagenes/Xiaomi/43.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 10" Imagen={require("../imagenes/Xiaomi/44.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 10C" Imagen={require("../imagenes/Xiaomi/45.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 9T" Imagen={require("../imagenes/Xiaomi/46.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 9C" Imagen={require("../imagenes/Xiaomi/47.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 9" Imagen={require("../imagenes/Xiaomi/48.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi A1" Imagen={require("../imagenes/Xiaomi/49.jpg")} Href="#" />
-              <Cards2 Nombre="Redmi 9A" Imagen={require("../imagenes/Xiaomi/50.jpg")} Href="#" />
+              <Cards2 Nombre="Poco F5 Pro" Imagen={require("../imagenes/Xiaomi/1.jpg")} Href="https://amzn.to/3SnYZ57" />
+              <Cards2 Nombre="Poco F5" Imagen={require("../imagenes/Xiaomi/2.jpg")} Href="https://amzn.to/3SnYZ57" />
+              <Cards2 Nombre="Xiaomi 13T Pro" Imagen={require("../imagenes/Xiaomi/3.jpg")} Href="https://amzn.to/3OuBgPn" />
+              <Cards2 Nombre="Xiaomi 13 Lite" Imagen={require("../imagenes/Xiaomi/4.jpg")} Href="https://amzn.to/3UnjDoA" />
+              <Cards2 Nombre="Xiaomi Redmi Note 12 Pro+ 5G" Imagen={require("../imagenes/Xiaomi/5.jpg")} Href="https://amzn.to/3Sr9c0z" />
+              <Cards2 Nombre="POCO X5 Pro 5G" Imagen={require("../imagenes/Xiaomi/6.jpg")} Href="https://amzn.to/3SsvI9f" />
+              <Cards2 Nombre="Xiaomi Redmi Note 12 5G" Imagen={require("../imagenes/Xiaomi/7.jpg")} Href="https://amzn.to/3SGCKIV" />
+              <Cards2 Nombre="Xiaomi Redmi 13C" Imagen={require("../imagenes/Xiaomi/8.jpg")} Href="https://amzn.to/42pb4vi" />
+              <Cards2 Nombre="Redmi Note 13" Imagen={require("../imagenes/Xiaomi/9.jpg")} Href="https://amzn.to/48Z3Gti" />
+              <Cards2 Nombre="Xiaomi 13T Pro" Imagen={require("../imagenes/Xiaomi/10.jpg")} Href="https://amzn.to/3OuBgPn" />
+              <Cards2 Nombre="Xiaomi 13T" Imagen={require("../imagenes/Xiaomi/11.jpg")} Href="https://amzn.to/3umbsOI" />
+              <Cards2 Nombre="Xiaomi Mi Mix4" Imagen={require("../imagenes/Xiaomi/12.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Xiaomi 13 Pro" Imagen={require("../imagenes/Xiaomi/13.jpg")} Href="https://amzn.to/3SJNXID" />
+              <Cards2 Nombre="Xiaomi 13" Imagen={require("../imagenes/Xiaomi/14.jpg")} Href="https://amzn.to/482uyqW" />
+              <Cards2 Nombre="Xiaomi 12S Ultra" Imagen={require("../imagenes/Xiaomi/15.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Xiaomi 12T Pro" Imagen={require("../imagenes/Xiaomi/16.jpg")} Href="https://amzn.to/3vXNr0K" />
+              <Cards2 Nombre="Xiaomi 12 Pro" Imagen={require("../imagenes/Xiaomi/17.jpg")} Href="https://amzn.to/3SLCCa7" />
+              <Cards2 Nombre="Xiaomi 12T" Imagen={require("../imagenes/Xiaomi/18.jpg")} Href="https://amzn.to/3SpxDvm" />
+              <Cards2 Nombre="Xiaomi 12" Imagen={require("../imagenes/Xiaomi/19.jpg")} Href="https://amzn.to/3SM5PTa" />
+              <Cards2 Nombre="Xiaomi Mi 11" Imagen={require("../imagenes/Xiaomi/20.jpg")} Href="https://amzn.to/3UrtHwU" />
+              <Cards2 Nombre="Xiaomi 11T Pro" Imagen={require("../imagenes/Xiaomi/21.jpg")} Href="https://amzn.to/3Unk1U4" />
+              <Cards2 Nombre="Xiaomi Mi 11i" Imagen={require("../imagenes/Xiaomi/22.jpg")} Href="https://amzn.to/42t2ADv" />
+              <Cards2 Nombre="Xiaomi 12X" Imagen={require("../imagenes/Xiaomi/23.jpg")} Href="https://amzn.to/3ukQ2RY" />
+              <Cards2 Nombre="Xiaomi Poco F3" Imagen={require("../imagenes/Xiaomi/24.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Xiaomi 11T" Imagen={require("../imagenes/Xiaomi/25.jpg")} Href="https://amzn.to/48RMfux" />
+              <Cards2 Nombre="Redmi Note 12 Pro+" Imagen={require("../imagenes/Xiaomi/26.jpg")} Href="https://amzn.to/42t3oZh" />
+              <Cards2 Nombre="Redmi Note 12S" Imagen={require("../imagenes/Xiaomi/27.jpg")} Href="https://amzn.to/42nhKdD" />
+              <Cards2 Nombre="Redmi Note 12" Imagen={require("../imagenes/Xiaomi/28.jpg")} Href="https://amzn.to/3OxT1h0" />
+              <Cards2 Nombre="Xiaomi Poco M5s" Imagen={require("../imagenes/Xiaomi/29.jpg")} Href="https://amzn.to/497fbyY" />
+              <Cards2 Nombre="Xiaomi 11 Lite 5G NE" Imagen={require("../imagenes/Xiaomi/30.jpg")} Href="https://amzn.to/4bmlkbT" />
+              <Cards2 Nombre="Redmi Note 11 Pro 5G" Imagen={require("../imagenes/Xiaomi/31.jpg")} Href="https://amzn.to/3w0Dwrw" />
+              <Cards2 Nombre="Redmi Note 11 Pro Plus 5G" Imagen={require("../imagenes/Xiaomi/32.jpg")} Href="https://amzn.to/3w0Dwrw" />
+              <Cards2 Nombre="Redmi Note 11 Pro Max" Imagen={require("../imagenes/Xiaomi/33.jpg")} Href="https://amzn.to/3w0Dwrw" />
+              <Cards2 Nombre="Poco X4 Pro 5G" Imagen={require("../imagenes/Xiaomi/34.jpg")} Href="https://amzn.to/482MnWM" />
+              <Cards2 Nombre="Redmi Note 10 Pro" Imagen={require("../imagenes/Xiaomi/35.jpg")} Href="https://amzn.to/3UqDh2U" />
+              <Cards2 Nombre="Poco X3 Pro" Imagen={require("../imagenes/Xiaomi/36.jpg")} Href="https://amzn.to/48bIcs0" />
+              <Cards2 Nombre="Poco X3 NFC" Imagen={require("../imagenes/Xiaomi/37.jpg")} Href="https://amzn.to/48bIcs0" />
+              <Cards2 Nombre="Redmi Note 11s" Imagen={require("../imagenes/Xiaomi/38.jpg")} Href="https://amzn.to/3SprmQf" />
+              <Cards2 Nombre="Redmi Note 10S" Imagen={require("../imagenes/Xiaomi/39.jpg")} Href="https://amzn.to/3SI7OrR" />
+              <Cards2 Nombre="Poco M4 Pro 5G" Imagen={require("../imagenes/Xiaomi/40.jpg")} Href="https://amzn.to/3SJOI4r" />
+              <Cards2 Nombre="Poco M3 Pro 5G" Imagen={require("../imagenes/Xiaomi/41.jpg")} Href="https://amzn.to/3SKiUwr" />
+              <Cards2 Nombre="Redmi Note 11" Imagen={require("../imagenes/Xiaomi/42.jpg")} Href="https://amzn.to/3Uy2GYN" />
+              <Cards2 Nombre="Redmi Note 10" Imagen={require("../imagenes/Xiaomi/43.jpg")} Href="https://amzn.to/3ubyxDT" />
+              <Cards2 Nombre="Redmi 10" Imagen={require("../imagenes/Xiaomi/44.jpg")} Href="https://amzn.to/3StQs0F" />
+              <Cards2 Nombre="Redmi 10C" Imagen={require("../imagenes/Xiaomi/45.jpg")} Href="https://amzn.to/3UqDMdi" />
+              <Cards2 Nombre="Redmi 9T" Imagen={require("../imagenes/Xiaomi/46.jpg")} Href="https://amzn.to/3SpycoY" />
+              <Cards2 Nombre="Redmi 9C" Imagen={require("../imagenes/Xiaomi/47.jpg")} Href="https://amzn.to/4bgXVIO" />
+              <Cards2 Nombre="Redmi 9" Imagen={require("../imagenes/Xiaomi/48.jpg")} Href="https://amzn.to/3SpycoY" />
+              <Cards2 Nombre="Redmi A1" Imagen={require("../imagenes/Xiaomi/49.jpg")} Href="https://amzn.to/3SsLz7T" />
+              <Cards2 Nombre="Redmi 9A" Imagen={require("../imagenes/Xiaomi/50.jpg")} Href="https://amzn.to/3HMIzOQ" />
             </div>
 
 
@@ -347,65 +348,65 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Infinix Smart 8 HD" Imagen={require("../imagenes/Infinix/1.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 40" Imagen={require("../imagenes/Infinix/2.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 40 Pro" Imagen={require("../imagenes/Infinix/3.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 40i" Imagen={require("../imagenes/Infinix/4.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero 30 4G" Imagen={require("../imagenes/Infinix/5.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero 30 5G" Imagen={require("../imagenes/Infinix/6.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix GT 10 Pro" Imagen={require("../imagenes/Infinix/7.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 30 5G" Imagen={require("../imagenes/Infinix/8.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 30 Vip" Imagen={require("../imagenes/Infinix/9.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 30" Imagen={require("../imagenes/Infinix/10.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 30 Pro" Imagen={require("../imagenes/Infinix/11.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 30 Play" Imagen={require("../imagenes/Infinix/12.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 7 HD" Imagen={require("../imagenes/Infinix/13.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 30" Imagen={require("../imagenes/Infinix/14.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 30i" Imagen={require("../imagenes/Infinix/15.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 7" Imagen={require("../imagenes/Infinix/16.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero 5G 2023" Imagen={require("../imagenes/Infinix/17.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 20S" Imagen={require("../imagenes/Infinix/18.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 20 Play" Imagen={require("../imagenes/Infinix/19.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 20" Imagen={require("../imagenes/Infinix/20.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 20 5G" Imagen={require("../imagenes/Infinix/21.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12" Imagen={require("../imagenes/Infinix/22.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero 20" Imagen={require("../imagenes/Infinix/23.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero Ultra" Imagen={require("../imagenes/Infinix/24.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12i 2022" Imagen={require("../imagenes/Infinix/25.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 20i" Imagen={require("../imagenes/Infinix/26.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 6 Plus" Imagen={require("../imagenes/Infinix/27.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 12 Pro" Imagen={require("../imagenes/Infinix/28.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12 Pro" Imagen={require("../imagenes/Infinix/29.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12 5G" Imagen={require("../imagenes/Infinix/30.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12 Pro 5G" Imagen={require("../imagenes/Infinix/31.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 12 Play" Imagen={require("../imagenes/Infinix/32.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12i" Imagen={require("../imagenes/Infinix/33.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12 Vip" Imagen={require("../imagenes/Infinix/34.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 12i" Imagen={require("../imagenes/Infinix/35.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 12" Imagen={require("../imagenes/Infinix/36.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 6 HD" Imagen={require("../imagenes/Infinix/37.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 12" Imagen={require("../imagenes/Infinix/38.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 11 2022" Imagen={require("../imagenes/Infinix/39.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero 5G" Imagen={require("../imagenes/Infinix/40.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 5 Pro" Imagen={require("../imagenes/Infinix/41.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 11i" Imagen={require("../imagenes/Infinix/42.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 11 Play" Imagen={require("../imagenes/Infinix/43.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 11s" Imagen={require("../imagenes/Infinix/44.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 11" Imagen={require("../imagenes/Infinix/45.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 6" Imagen={require("../imagenes/Infinix/46.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 11 Pro" Imagen={require("../imagenes/Infinix/47.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 11S" Imagen={require("../imagenes/Infinix/48.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 11" Imagen={require("../imagenes/Infinix/49.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero X Pro" Imagen={require("../imagenes/Infinix/50.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero X" Imagen={require("../imagenes/Infinix/51.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Zero X Neo" Imagen={require("../imagenes/Infinix/52.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 10i" Imagen={require("../imagenes/Infinix/53.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 10" Imagen={require("../imagenes/Infinix/54.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Note 10 Pro" Imagen={require("../imagenes/Infinix/55.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 10T" Imagen={require("../imagenes/Infinix/56.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 10s" Imagen={require("../imagenes/Infinix/57.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Smart 5" Imagen={require("../imagenes/Infinix/58.jpg")} Href="#" />
-              <Cards2 Nombre="Infinix Hot 10 Play" Imagen={require("../imagenes/Infinix/59.jpg")} Href="#" />
+              <Cards2 Nombre="Infinix Smart 8 HD" Imagen={require("../imagenes/Infinix/1.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 40" Imagen={require("../imagenes/Infinix/2.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 40 Pro" Imagen={require("../imagenes/Infinix/3.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 40i" Imagen={require("../imagenes/Infinix/4.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero 30 4G" Imagen={require("../imagenes/Infinix/5.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero 30 5G" Imagen={require("../imagenes/Infinix/6.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix GT 10 Pro" Imagen={require("../imagenes/Infinix/7.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 30 5G" Imagen={require("../imagenes/Infinix/8.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 30 Vip" Imagen={require("../imagenes/Infinix/9.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 30" Imagen={require("../imagenes/Infinix/10.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 30 Pro" Imagen={require("../imagenes/Infinix/11.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 30 Play" Imagen={require("../imagenes/Infinix/12.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 7 HD" Imagen={require("../imagenes/Infinix/13.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 30" Imagen={require("../imagenes/Infinix/14.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 30i" Imagen={require("../imagenes/Infinix/15.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 7" Imagen={require("../imagenes/Infinix/16.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero 5G 2023" Imagen={require("../imagenes/Infinix/17.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 20S" Imagen={require("../imagenes/Infinix/18.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 20 Play" Imagen={require("../imagenes/Infinix/19.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 20" Imagen={require("../imagenes/Infinix/20.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 20 5G" Imagen={require("../imagenes/Infinix/21.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12" Imagen={require("../imagenes/Infinix/22.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero 20" Imagen={require("../imagenes/Infinix/23.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero Ultra" Imagen={require("../imagenes/Infinix/24.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12i 2022" Imagen={require("../imagenes/Infinix/25.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 20i" Imagen={require("../imagenes/Infinix/26.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 6 Plus" Imagen={require("../imagenes/Infinix/27.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 12 Pro" Imagen={require("../imagenes/Infinix/28.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12 Pro" Imagen={require("../imagenes/Infinix/29.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12 5G" Imagen={require("../imagenes/Infinix/30.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12 Pro 5G" Imagen={require("../imagenes/Infinix/31.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 12 Play" Imagen={require("../imagenes/Infinix/32.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12i" Imagen={require("../imagenes/Infinix/33.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12 Vip" Imagen={require("../imagenes/Infinix/34.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 12i" Imagen={require("../imagenes/Infinix/35.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 12" Imagen={require("../imagenes/Infinix/36.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 6 HD" Imagen={require("../imagenes/Infinix/37.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 12" Imagen={require("../imagenes/Infinix/38.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 11 2022" Imagen={require("../imagenes/Infinix/39.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero 5G" Imagen={require("../imagenes/Infinix/40.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 5 Pro" Imagen={require("../imagenes/Infinix/41.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 11i" Imagen={require("../imagenes/Infinix/42.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 11 Play" Imagen={require("../imagenes/Infinix/43.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 11s" Imagen={require("../imagenes/Infinix/44.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 11" Imagen={require("../imagenes/Infinix/45.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 6" Imagen={require("../imagenes/Infinix/46.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 11 Pro" Imagen={require("../imagenes/Infinix/47.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 11S" Imagen={require("../imagenes/Infinix/48.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 11" Imagen={require("../imagenes/Infinix/49.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero X Pro" Imagen={require("../imagenes/Infinix/50.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero X" Imagen={require("../imagenes/Infinix/51.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Zero X Neo" Imagen={require("../imagenes/Infinix/52.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 10i" Imagen={require("../imagenes/Infinix/53.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 10" Imagen={require("../imagenes/Infinix/54.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Note 10 Pro" Imagen={require("../imagenes/Infinix/55.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 10T" Imagen={require("../imagenes/Infinix/56.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 10s" Imagen={require("../imagenes/Infinix/57.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Smart 5" Imagen={require("../imagenes/Infinix/58.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Infinix Hot 10 Play" Imagen={require("../imagenes/Infinix/59.jpg")} Href="https://alexssuarez.github.io/no-found/" />
             </div>
 
 
@@ -415,40 +416,28 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Alcatel 1B" Imagen={require("../imagenes/Alcatel/1.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 305" Imagen={require("../imagenes/Alcatel/2.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1" Imagen={require("../imagenes/Alcatel/3.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1L" Imagen={require("../imagenes/Alcatel/4.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1L Pro" Imagen={require("../imagenes/Alcatel/5.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1S" Imagen={require("../imagenes/Alcatel/6.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1SE Lite" Imagen={require("../imagenes/Alcatel/7.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1V" Imagen={require("../imagenes/Alcatel/8.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 3L" Imagen={require("../imagenes/Alcatel/9.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel Go Flip 4" Imagen={require("../imagenes/Alcatel/10.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20 Pro 5G" Imagen={require("../imagenes/Alcatel/11.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20 R 5G" Imagen={require("../imagenes/Alcatel/12.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20 SE" Imagen={require("../imagenes/Alcatel/13.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 205" Imagen={require("../imagenes/Alcatel/14.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20B" Imagen={require("../imagenes/Alcatel/15.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20E" Imagen={require("../imagenes/Alcatel/16.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20L" Imagen={require("../imagenes/Alcatel/17.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20L+" Imagen={require("../imagenes/Alcatel/18.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20R 5G" Imagen={require("../imagenes/Alcatel/19.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20Y" Imagen={require("../imagenes/Alcatel/20.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL L10 Pro" Imagen={require("../imagenes/Alcatel/21.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL L7" Imagen={require("../imagenes/Alcatel/22.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1B" Imagen={require("../imagenes/Alcatel/23.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1S" Imagen={require("../imagenes/Alcatel/24.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1SE" Imagen={require("../imagenes/Alcatel/25.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 1V" Imagen={require("../imagenes/Alcatel/26.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 3L" Imagen={require("../imagenes/Alcatel/27.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel 3X" Imagen={require("../imagenes/Alcatel/28.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 10 5G" Imagen={require("../imagenes/Alcatel/29.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 10 Plus" Imagen={require("../imagenes/Alcatel/30.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 10 Pro" Imagen={require("../imagenes/Alcatel/31.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 10 SE" Imagen={require("../imagenes/Alcatel/32.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 10L" Imagen={require("../imagenes/Alcatel/33.jpg")} Href="#" />
-              <Cards2 Nombre="Alcatel TCL 20 5G" Imagen={require("../imagenes/Alcatel/34.jpg")} Href="#" />
+              <Cards2 Nombre="Alcatel 1B" Imagen={require("../imagenes/Alcatel/1.jpg")} Href="https://amzn.to/3w0Th1w" />
+              <Cards2 Nombre="Alcatel TCL 305" Imagen={require("../imagenes/Alcatel/2.jpg")} Href="https://amzn.to/3w0Th1w" />
+              <Cards2 Nombre="Alcatel 1" Imagen={require("../imagenes/Alcatel/3.jpg")} Href="https://amzn.to/4boDM3C" />
+              <Cards2 Nombre="Alcatel 1L" Imagen={require("../imagenes/Alcatel/4.jpg")} Href="https://amzn.to/3w0Th1w" />
+              <Cards2 Nombre="Alcatel 1L Pro" Imagen={require("../imagenes/Alcatel/5.jpg")} Href="https://amzn.to/3w0Th1w" />
+              <Cards2 Nombre="Alcatel 1S" Imagen={require("../imagenes/Alcatel/6.jpg")} Href="https://amzn.to/3w0Th1w" />
+              <Cards2 Nombre="Alcatel 1SE Lite" Imagen={require("../imagenes/Alcatel/7.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel 1V" Imagen={require("../imagenes/Alcatel/8.jpg")} Href="https://amzn.to/3OxtUe1" />
+              <Cards2 Nombre="Alcatel 3L" Imagen={require("../imagenes/Alcatel/9.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel Go Flip 4" Imagen={require("../imagenes/Alcatel/10.jpg")} Href="https://amzn.to/3vZOVrj" />
+              <Cards2 Nombre="Alcatel TCL 20 Pro 5G" Imagen={require("../imagenes/Alcatel/11.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20 R 5G" Imagen={require("../imagenes/Alcatel/12.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20 SE" Imagen={require("../imagenes/Alcatel/13.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 205" Imagen={require("../imagenes/Alcatel/14.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20B" Imagen={require("../imagenes/Alcatel/15.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20E" Imagen={require("../imagenes/Alcatel/16.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20L" Imagen={require("../imagenes/Alcatel/17.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20L+" Imagen={require("../imagenes/Alcatel/18.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20R 5G" Imagen={require("../imagenes/Alcatel/19.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL 20Y" Imagen={require("../imagenes/Alcatel/20.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL L10 Pro" Imagen={require("../imagenes/Alcatel/21.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Alcatel TCL L7" Imagen={require("../imagenes/Alcatel/22.jpg")} Href="https://alexssuarez.github.io/no-found/" />
             </div>
 
 
@@ -458,26 +447,24 @@ else if(input7==="Done7"){
             <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
             </svg>
             </div>
-              <Cards2 Nombre="Nokia G22" Imagen={require("../imagenes/Nokia/1.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G42 5G" Imagen={require("../imagenes/Nokia/2.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia X30 5G" Imagen={require("../imagenes/Nokia/3.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G60 5G" Imagen={require("../imagenes/Nokia/4.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G50" Imagen={require("../imagenes/Nokia/5.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G21" Imagen={require("../imagenes/Nokia/6.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G11" Imagen={require("../imagenes/Nokia/7.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G11 Plus" Imagen={require("../imagenes/Nokia/8.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia XR20" Imagen={require("../imagenes/Nokia/9.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia X20" Imagen={require("../imagenes/Nokia/10.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia X10" Imagen={require("../imagenes/Nokia/11.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia G20" Imagen={require("../imagenes/Nokia/12.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia C21 Plus" Imagen={require("../imagenes/Nokia/13.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia C32" Imagen={require("../imagenes/Nokia/14.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia C22" Imagen={require("../imagenes/Nokia/15.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia C12" Imagen={require("../imagenes/Nokia/16.jpg")} Href="#" />
-              <Cards2 Nombre="Nokia C2 2E" Imagen={require("../imagenes/Nokia/1.jpg")} Href="#" />
+              <Cards2 Nombre="Nokia G22" Imagen={require("../imagenes/Nokia/1.jpg")} Href="https://amzn.to/487T0ai" />
+              <Cards2 Nombre="Nokia G42 5G" Imagen={require("../imagenes/Nokia/2.jpg")} Href="https://amzn.to/3SpMw0S" />
+              <Cards2 Nombre="Nokia X30 5G" Imagen={require("../imagenes/Nokia/3.jpg")} Href="https://amzn.to/48bIK12" />
+              <Cards2 Nombre="Nokia G60 5G" Imagen={require("../imagenes/Nokia/4.jpg")} Href="https://amzn.to/3So0LmN" />
+              <Cards2 Nombre="Nokia G50" Imagen={require("../imagenes/Nokia/5.jpg")} Href="https://amzn.to/483AmQM" />
+              <Cards2 Nombre="Nokia G21" Imagen={require("../imagenes/Nokia/6.jpg")} Href="https://amzn.to/42t3FLz" />
+              <Cards2 Nombre="Nokia G11" Imagen={require("../imagenes/Nokia/7.jpg")} Href="https://amzn.to/3OvWQD4" />
+              <Cards2 Nombre="Nokia G11 Plus" Imagen={require("../imagenes/Nokia/8.jpg")} Href="https://amzn.to/3OvWQD4" />
+              <Cards2 Nombre="Nokia XR20" Imagen={require("../imagenes/Nokia/9.jpg")} Href="https://amzn.to/3UpH6p6" />
+              <Cards2 Nombre="Nokia X20" Imagen={require("../imagenes/Nokia/10.jpg")} Href="https://amzn.to/3UpH6p6" />
+              <Cards2 Nombre="Nokia X10" Imagen={require("../imagenes/Nokia/11.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Nokia G20" Imagen={require("../imagenes/Nokia/12.jpg")} Href="https://amzn.to/3HMIRVW" />
+              <Cards2 Nombre="Nokia C21 Plus" Imagen={require("../imagenes/Nokia/13.jpg")} Href="https://amzn.to/3ukD5HS" />
+              <Cards2 Nombre="Nokia C32" Imagen={require("../imagenes/Nokia/14.jpg")} Href="https://amzn.to/3SHKeeG" />
+              <Cards2 Nombre="Nokia C22" Imagen={require("../imagenes/Nokia/15.jpg")} Href="https://amzn.to/49lqjb3" />
+              <Cards2 Nombre="Nokia C12" Imagen={require("../imagenes/Nokia/16.jpg")} Href="https://alexssuarez.github.io/no-found/" />
+              <Cards2 Nombre="Nokia C2 2E" Imagen={require("../imagenes/Nokia/1.jpg")} Href="https://amzn.to/3SsW3nB" />
             </div>
-
-              
             <section className="imagen"></section>
         </div>
     </div>

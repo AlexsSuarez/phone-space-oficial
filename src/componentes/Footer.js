@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="grupo-1">
         <div className="box">
           <figure className="fgr">
-            <a href="#">
+            <a Href="https://alexssuarez.github.io/no-found/">
               <img src={logo} alt="" />
             </a>
           </figure>
